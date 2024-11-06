@@ -2,8 +2,7 @@
 This repository contains scripts used in our ACM IMC'24 paper "A First Look at Immersive Telepresence on Apple Vision Pro".
 https://doi.org/10.1145/3646547.3689006
 
-## Repo Structure
-Under Construction...
+
 
 ## Notes
 Please consider citing our paper if you think the source code is useful in your research project.
